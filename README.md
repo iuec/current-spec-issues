@@ -1,5 +1,5 @@
 # NHS 111 IM&T Standards
-## Legacy Issues
+## Current Specification Issues and Gaps
 
 This repository is for recording and tracking legacy issues with the NHS 111 IM&T Standards (including the Technical / Interoperability specification).
 
